@@ -1,2 +1,3 @@
 My name is BASAVARAJ HEBBAL. I am a 3rd Semester student at REVA University. I am currently studying computer science and learning different programming and technology concepts. I have a strong interest in Web Development because I enjoy creating websites and learning how web applications work. I am interested in improving my programming, problem-solving, and technical skills through regular practice. I created this repository to store my programs, assignments, projects, practical work, and learning activities. This repository will help me keep my work organized, track my learning progress, and improve my skills throughout my academic journey.
 Learning Python
+Interested in cloud computing
