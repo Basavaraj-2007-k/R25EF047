@@ -2,3 +2,8 @@ My name is BASAVARAJ HEBBAL. I am a 3rd Semester student at REVA University. I a
 Learning Python
 Interested in cloud computing
 Goal: contribute to open source.
+
+
+##projects
+
+smart hospital management system with AI
